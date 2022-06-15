@@ -21,3 +21,5 @@ A Python API for talking to Stack Exchange chat.
 
 
 This project is licensed under [GPL](https://www.gnu.org/copyleft/gpl.html)
+
+
